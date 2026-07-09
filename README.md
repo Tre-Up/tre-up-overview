@@ -10,7 +10,7 @@ Tre-Up reads behavioral signals — timing patterns, consistency, self-reported
 intent, and later passive signals like sleep and activity — to help someone
 notice the point where a plan, a day, or a habit starts to drift, before it's
 already lost. The working name for this signal-to-guidance layer is **Hawk**.
-Detail: [`docs/PRODUCT.md`](./docs/PRODUCT.md)
+Detail: [`docs/PRODUCT.md`](./PRODUCT.md)
 
 ## What Tre-Up Is Not
 
@@ -47,7 +47,7 @@ about it, is worth more than another list of tasks.
 
 We're evaluating cloud platforms to support the first backend, an early
 Hawk prototype, and secure signal storage. Nothing below is built, awarded,
-or committed yet. Detail: [`docs/INFRASTRUCTURE.md`](./docs/INFRASTRUCTURE.md)
+or committed yet. Detail: [`docs/INFRASTRUCTURE.md`](./INFRASTRUCTURE.md)
 
 | Area | Target services under evaluation |
 |---|---|
@@ -63,12 +63,12 @@ or committed yet. Detail: [`docs/INFRASTRUCTURE.md`](./docs/INFRASTRUCTURE.md)
 - Designing the first backend and the Hawk prototype's data contract
 - Preparing the path to a small private beta once infrastructure exists
 
-Roadmap: [`docs/ROADMAP.md`](./docs/ROADMAP.md)
+Roadmap: [`docs/ROADMAP.md`](./ROADMAP.md)
 
 ## Team
 
 Yiğit Ali Kurt — founder, building solo at this stage.
-Detail: [`docs/TEAM.md`](./docs/TEAM.md)
+Detail: [`docs/TEAM.md`](./TEAM.md)
 
 ## Contact
 
