@@ -37,6 +37,7 @@ applications are approved, not confirmed infrastructure.
 | AWS | AWS Bedrock (AI workflow experimentation), backend infrastructure, secure storage, logging/monitoring |
 | Google Cloud | Vertex AI / Gemini (model experimentation), backend services, secure data storage, early-stage analytics |
 | Microsoft Azure | Azure OpenAI / Azure AI Foundry, backend APIs, observability, secure early-access testing infrastructure |
+|Tre-Up is designed with a provider-flexible AI architecture,during MVP development, the system may evaluate approved cloud AI providers such as Anthropic Claude through Amazon Bedrock or Google Cloud, Gemini on Google Cloud, and Azure AI / OpenAI-compatible models, depending on performance, privacy, cost, and availability |
 
 We expect the specific mix to narrow once we know which programs approve
 credits and at what tier. This is not a commitment to run full production
