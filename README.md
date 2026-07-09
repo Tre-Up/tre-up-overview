@@ -79,3 +79,5 @@ Detail: [`docs/TEAM.md`](./TEAM.md)
 
 See [`LICENSE`](./LICENSE). Proprietary — published for transparency, not
 for reuse or redistribution.
+## Security and Prıvacy
+Security & privacy direction: [`SECURITY_AND_PRIVACY.md`](./SECURITY_AND_PRIVACY.md)
